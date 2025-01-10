@@ -8,6 +8,7 @@
 <li>Nikola Mitrovic</li>
 <li>Sébastien Martinez</li>
 <li>Hugo de Hepcée</li>
+  <li>Adam Jaabak Amrani</li>
 </ul>
 <h1 id="selection-and-insertion-sorts">1. Selection and Insertion Sorts</h1>
 <h2 id="selection">1.1 Selection</h2>
